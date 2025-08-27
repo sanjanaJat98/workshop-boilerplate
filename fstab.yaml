@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p153560-e1607906.adobeaemcloud.com/bin/franklin.delivery/sanjanaJat98/lab1/main
+    url: https://author-p153560-e1607906.adobeaemcloud.com/bin/franklin.delivery/sanjanaJat98/dummyForm/main
     type: "markup"
     suffix: ".html"
